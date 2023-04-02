@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "a220214fcbd08b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e879b17912e4ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6579dd9d7e1c0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fea26500cbc4d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "8529bd56379fd244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4c951c09dd92ed4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e576cab622f22bcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3824d5ecb82f4a57",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "84d8c09464404b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4880e7ab09cf3a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d082209e7d6eeea0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c949f5c10dfa572",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5e01526307d17cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78fac424e3c17cbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6579dd9d7e1c0e4",
+  "lastOpenFiles": [
+    "ch14 文件处理/fopen() 用于写入现有文件.md",
+    "ch14 文件处理/2. EOF 和 feof() 的区别.md",
+    "index.md",
+    "ch10 函数/5. 可变长度函数参数的使用.md",
+    "ch9 控制语句/9. 在 switch 语句中使用范围匹配.md",
+    "Pasted image 20230401032836.png",
+    "27. 字符串操作.md",
+    "ch8 数组和字符串/26. 反转字符串.md",
+    "Pasted image 20230401021815.png",
+    "ch8 数组和字符串/25. 如何按值传递数组？.md",
+    "ch8 数组和字符串/23. 比较字符串.md",
+    "ch8 数组和字符串/22. 复制字符串.md",
+    "ch8 数组和字符串/21. 越界访问数组.md",
+    "Pasted image 20230401004735.png",
+    "Pasted image 20230401004726.png",
+    "ch8 数组和字符串/20. 快速定义数组中重复的元素.md",
+    "ch8 数组和字符串/19. 可变长度数组 VLA.md",
+    "ch8 数组和字符串/18. 无法创建数组的数据类型有哪些？.md",
+    "ch8 数组和字符串/15.  如何在 C 语言中动态分配二维数组？.md",
+    "ch8 数组和字符串/17. 如何在多行 C 中编写长字符串.md",
+    "ch8 数组和字符串/16. 如何在 C 中将 2D 数组做为参数传递？.md",
+    "ch8 数组和字符串/17-b. C 语言中的多维数组.md",
+    "Pasted image 20230331152720.png",
+    "ch17 C语言面试问题",
+    "ch16 杂项",
+    "ch15 练习题",
+    "ch14 文件处理",
+    "ch13 内存管理",
+    "ch12 枚举、结构和联合体",
+    "ch11 指针",
+    "ch10 函数",
+    "ch9 控制语句",
+    "ch8 数组和字符串",
+    "index.md.md"
+  ]
+}
