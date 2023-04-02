@@ -2,5 +2,5 @@
 c study notes about cppreference.com.
 
 ```
-/docs-new        // study notes
-/src-new         // demo code
+/docs        // study notes
+/src         // demo code
