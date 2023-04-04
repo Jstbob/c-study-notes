@@ -3,9 +3,9 @@
 #include <stdlib.h>
 
 int main() {
-    FILE *fp = fopen("test.txt", "r");
+    FILE *fp = fopen("nothing.txt", "r");
     if (!fp) {
-        perror("fopen() error");
+        perror("fopen() error");    // output: fopen() error: No such file or directory
         printf("%d\n",errno);
         return errno;
     }

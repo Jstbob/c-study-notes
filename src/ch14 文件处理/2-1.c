@@ -3,7 +3,7 @@
 
 int main() {
     FILE *f = fopen("test.txt", "r");
-    if(!f){ 
+    if (!f) {
         perror("fopen error");
         return errno;
     }
