@@ -1,10 +1,10 @@
 {
   BasedOnStyle: LLVM,
+  # similarly: google code style guide about c++
   UseTab: Never,
   IndentWidth: 4,
   TabWidth: 4,
-
   BreakBeforeBraces: Attach,
-  AllowShortIfStatementsOnASingleLine: false,
+  AllowShortIfStatementsOnASingleLine: true,
   AllowShortFunctionsOnASingleLine: false,
 }
