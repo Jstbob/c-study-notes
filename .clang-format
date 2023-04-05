@@ -5,6 +5,6 @@
   IndentWidth: 4,
   TabWidth: 4,
   BreakBeforeBraces: Attach,
-  AllowShortIfStatementsOnASingleLine: true,
+  AllowShortIfStatementsOnASingleLine: false,
   AllowShortFunctionsOnASingleLine: false,
 }
