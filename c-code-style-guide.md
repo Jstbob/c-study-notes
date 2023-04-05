@@ -28,11 +28,31 @@ The main() function is either first or last.
 
 不要对结构体使用 typedef 。
 
-## 函数
+## 命名
 
-## 变量
+- 结构体命名首字母大写；
+- 函数命名，小写下划线；
+- 变量命名，小写下划线；
 
 ## 类型
+
+- 整数类型使用 int32_t ，避免使用无符号类型；
+- 字符类型使用 char 类型；
+- 内存字节类型指定使用 unsigned char 类型；
+- 始终将字符串初始化为数组；
+
+```c
+// Good
+char const message[] = "always use arrays for strings!";
+write( output, message, sizeof message );
+```
+
+* 在 sizeof() 中，尽可能使用变量，而不是类型；
+
+```c
+// Good
+int * a = malloc( n * ( sizeof *a ) );
+```
 
 ## 异常
 
@@ -124,3 +144,7 @@ void doSomething(int i)
    return ;
 }
 ```
+
+## 参考
+
+[mcinglis/c-style：我最喜欢的C编程实践。 (github.com)](https://github.com/mcinglis/c-style)
